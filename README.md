@@ -1,11 +1,11 @@
-1 задание
-X↔️Y∨Z)→((X→Y)∨X)
-(X→n2Y)∨X
-2nY=Y
-X→Y≡ nX∨Y
-(nX∨Y)∨X
-nX∨X∨Y
-nX∨X=1
-1∨Y=1
-(X→n2Y)∨X≡1
-(X↔️Y∨Z)→((X→Y)∨X)≡1
+1 задание: 
+1. X⬌Y∨Z)→((X→Y)∨X)
+2. (X→n2Y)∨X
+3. 2nY=Y
+4. X→Y≡nX∨Y
+5. (nX∨Y)∨X
+6. nX∨X∨Y
+7. nX∨X=1
+8. 1∨Y=1
+9. (X→n2Y)∨X≡1
+10. (X⬌Y∨Z)→((X→Y)∨X)≡1
