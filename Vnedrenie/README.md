@@ -1,5 +1,6 @@
-## [Доклады](/Vdenrenie/Doklads/)
-## [Лабораторные работы](/Vdenrenie/Laba/)
-## [Конспекты](/Vdenrenie/Konspects/)
+## [Доклады](/Vnedrenie/Doklads/)
+## [Лабораторные работы](/Vnedrenie/Laba/)
+## [Конспекты](/Vnedrenie/Konspects/)
+
 
 
