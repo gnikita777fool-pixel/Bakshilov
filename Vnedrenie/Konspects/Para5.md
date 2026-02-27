@@ -1,4 +1,4 @@
-<img width="3867" height="88" alt="image" src="https://github.com/user-attachments/assets/cb710976-e505-463f-9368-1e52da8d07d7" /><img width="1276" height="175" alt="image" src="https://github.com/user-attachments/assets/21674db9-590d-4537-a496-467e5e4cb099" /># Конспект: Характеристики мониторов
+Конспект: Характеристики мониторов
 
 ## 1. Широкоформатные мониторы
 - **Соотношение сторон** — важный параметр формы экрана
