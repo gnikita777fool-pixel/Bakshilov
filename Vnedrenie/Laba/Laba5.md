@@ -18,7 +18,8 @@ Scale Black – Color
 
 | Тест | Статус | Примечание |
 |------|--------|------------|
-| **Scale Black – Red** | ⬜ | |
+| **Scale Black – Red** | <img width="505" height="284" alt="image" src="https://github.com/user-attachments/assets/a3710087-b470-4004-9209-edb7ae275a30" />
+ | |
 | **Scale Black – Green** | ⬜ | |
 | **Scale Black – Blue** | ⬜ | |
 | **Scale Black – White** | ⬜ | |
