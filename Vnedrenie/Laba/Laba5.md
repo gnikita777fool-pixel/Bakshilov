@@ -19,9 +19,9 @@ Scale Black – Color
 | Тест | Цвет | 
 |------|--------|
 | **Scale Black – Red** | <img width="505" height="284" alt="image" src="https://github.com/user-attachments/assets/a3710087-b470-4004-9209-edb7ae275a30" /> |
-| **Scale Black – Green** | <img width="475" height="267" alt="image" src="https://github.com/user-attachments/assets/3b145be2-920a-4c51-8e6f-fd38a9ee0d40" /> |
-| **Scale Black – Blue** | <img width="461" height="259" alt="image" src="https://github.com/user-attachments/assets/bfc6b85b-2998-4f80-96ef-563efdd7aa06" /> |
-| **Scale Black – White** | <img width="531" height="298" alt="image" src="https://github.com/user-attachments/assets/b199d96e-c546-4a23-803b-5d4ff5264755" / |
+| **Scale Black – Green** | <img width="505" height="284" alt="image" src="https://github.com/user-attachments/assets/3b145be2-920a-4c51-8e6f-fd38a9ee0d40" /> |
+| **Scale Black – Blue** | <img width="505" height="284" alt="image" src="https://github.com/user-attachments/assets/bfc6b85b-2998-4f80-96ef-563efdd7aa06" /> |
+| **Scale Black – White** | <img width="505" height="284" alt="image" src="https://github.com/user-attachments/assets/b199d96e-c546-4a23-803b-5d4ff5264755" /> |
 
  📊 Проверка гаммы
 
