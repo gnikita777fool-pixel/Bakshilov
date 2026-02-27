@@ -1,9 +1,10 @@
-## [Лабораторная работа 1](/Vnedrenie/Laba/Laba1.md)
-## [Лабораторная работа 2](/Vnedrenie/Laba/Laba2.md)
+## [Лабораторная работа 1 - Определение конфигурации ПК](/Vnedrenie/Laba/Laba1.md)
+## [Лабораторная работа 2 - Оценка качества работы жесткого диска](/Vnedrenie/Laba/Laba2.md)
 
-## [Лабораторная работа 3](/Vnedrenie/Laba/Laba3.md)
-## [Лабораторная работа 4](/Vnedrenie/Laba/Laba4.md)
-## [Лабораторная работа 5](/Vnedrenie/Laba/Laba5.md)
+## [Лабораторная работа 3 - Диагностика работоспособности ПК PassMark BurnInTest](/Vnedrenie/Laba/Laba3.md)
+## [Лабораторная работа 4 - Диагностика работоспособности ПК PC Wizard ](/Vnedrenie/Laba/Laba4.md)
+## [Лабораторная работа 5 - Тестирование качества монитора с помощью программных средств](/Vnedrenie/Laba/Laba5.md)
+
 
 
 
