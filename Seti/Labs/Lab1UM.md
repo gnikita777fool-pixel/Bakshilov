@@ -427,6 +427,10 @@
 8. Проверка прочности (растяжение 200–400 г)
 9. Термоусадка КДЗС в печи
 10. Укладка в сплайс-кассету/муфту/кросс
+
+<img width="1885" height="473" alt="image" src="https://github.com/user-attachments/assets/27535c61-92b5-4414-9662-35a7fe2a7135" />
+<img width="1885" height="473" alt="image" src="https://github.com/user-attachments/assets/67a72990-45bd-49dc-b0c5-e633da6c3bdf" />
+
 ```
 
 **Потери:**
