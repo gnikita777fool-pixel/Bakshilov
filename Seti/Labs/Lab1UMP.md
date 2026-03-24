@@ -37,6 +37,11 @@
 📅 1998 г. — Gigabit Ethernet (IEEE 802.3z) — 1 Гбит/с
 📅 2002 г. — 10 Gigabit Ethernet (IEEE 802.3ae) — 10 Гбит/с
 ```
+<img width="423" height="230" alt="image" src="https://github.com/user-attachments/assets/83649f2e-cc8a-4527-b77d-e01c48b2d4ce" />
+
+<img width="468" height="154" alt="image" src="https://github.com/user-attachments/assets/28fb91d1-af9a-4684-80ca-5f1173b3f386" />
+
+<img width="361" height="137" alt="image" src="https://github.com/user-attachments/assets/1599dfdc-c0aa-4c83-85b9-6f587c373ff7" />
 
 #### 🔹 Модификации стандарта IEEE 802.3 (10 Мбит/с)
 
@@ -81,6 +86,8 @@ CSMA/CD (Carrier Sense Multiple Access with Collision Detection)
    🟫 Пара 4: Коричневый / Бело-коричневый
 ```
 
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/5c0ee559-1b9e-4488-8593-1fc25c2b4367" />
+
 #### 🔹 Категории кабелей UTP
 
 | Категория | Частотный диапазон | Применение |
@@ -94,9 +101,28 @@ CSMA/CD (Carrier Sense Multiple Access with Collision Detection)
 
 ---
 
+<img width="768" height="426" alt="image" src="https://github.com/user-attachments/assets/fc83f19a-f694-4931-b638-3ba96ec0e653" />
+
+---
+
+<img width="450" height="281" alt="image" src="https://github.com/user-attachments/assets/db6ec8ac-b658-4d54-b856-d66f1588a56d" />
+
+Слева направо, виды штекеров: 
+<br> **8P8C** — 8-контактный, используется **RJ-45**, это основной штекер, используемый при организации ЛВС; 
+<br> **6P6C** — 6-контактный, используется **RJ-25**; 
+<br> **6P4C** — 4-контактный, используется **RJ-14**, также часто используется вместо **6P2C** в **RJ-11**; 
+<br> **4P4C** — 4-контактный, используется для подключения телефонных трубок в **RJ-9**.
+
+---
+
 ### 3. Разъёмы и интерфейсы
 
 #### 🔹 Разъём RJ-45 (правильное название: 8P8C)
+
+<img width="479" height="71" alt="image" src="https://github.com/user-attachments/assets/d3878666-204b-4283-b6f5-b1dd40cb4411" />
+<img width="482" height="120" alt="image" src="https://github.com/user-attachments/assets/5c5dc07b-7253-48c5-9407-902239e30e2f" />
+
+<img width="136" height="86" alt="image" src="https://github.com/user-attachments/assets/d939081f-89c5-4abe-83fa-93ea91ef0d1d" />
 
 ```
 ⚠️ Важное примечание:
@@ -105,6 +131,11 @@ CSMA/CD (Carrier Sense Multiple Access with Collision Detection)
 • Для ЛВС применяется разъём 8P8C (8 позиций, 8 контактов)
 • Однако термин «RJ-45» закрепился в профессиональной среде
 ```
+
+<img width="819" height="510" alt="image" src="https://github.com/user-attachments/assets/e84521ad-fbf6-4788-9c41-2eb0d57bac9b" />
+<img width="819" height="367" alt="image" src="https://github.com/user-attachments/assets/1b55265a-bbd6-4a30-88ff-0d5acde1628b" />
+<img width="1200" height="384" alt="image" src="https://github.com/user-attachments/assets/aad7d305-78a1-4a1e-969c-e6f38cb89f17" />
+
 
 #### 🔹 Типы портов: MDI и MDIX
 
@@ -136,6 +167,8 @@ CSMA/CD (Carrier Sense Multiple Access with Collision Detection)
 
 **Используется для: ПК ↔ Коммутатор/Концентратор**
 
+<img width="343" height="167" alt="image" src="https://github.com/user-attachments/assets/90631ceb-3cf9-46a3-ac33-226e559b1a0b" />
+
 ```
 Контакт │ Цвет жилы (стандарт 568B) │ Сигнал
 ────────┼───────────────────────────┼────────
@@ -150,6 +183,10 @@ CSMA/CD (Carrier Sense Multiple Access with Collision Detection)
 
 * Для 10/100 Мбит/с; для 1 Гбит/с используются все 8 жил
 ```
+<img width="486" height="96" alt="image" src="https://github.com/user-attachments/assets/971b3a2a-c7a4-4ed5-87df-6d6dc7b77b7a" />
+<img width="483" height="452" alt="image" src="https://github.com/user-attachments/assets/036fd5d0-15d5-487d-9fd5-5bd72934cf40" />
+
+<img width="139" height="163" alt="image" src="https://github.com/user-attachments/assets/7e203da1-a2d0-4539-bce8-e4241c45e6ec" />
 
 **Альтернативный стандарт 568A** (меняет местами оранжевую и зелёную пары):
 ```
@@ -174,6 +211,8 @@ CSMA/CD (Carrier Sense Multiple Access with Collision Detection)
 7. Бело-коричневый │    7. Бело-коричневый
 8. Коричневый      │    8. Коричневый
 ```
+
+<img width="480" height="531" alt="image" src="https://github.com/user-attachments/assets/4ae56994-0a09-4d94-8500-d3775f4b0fda" />
 
 #### 🔹 «Ленивая» обжимка (2 пары)
 
