@@ -23,6 +23,10 @@
 | Патч-корд | Готовый соединительный кабель для тестирования |
 | Хомуты | Организация и фиксация кабельных трасс |
 
+<img width="522" height="301" alt="image" src="https://github.com/user-attachments/assets/45d1a50f-6bef-40c7-b671-862c5a847db4" />
+
+<img width="551" height="225" alt="image" src="https://github.com/user-attachments/assets/35b5de16-6666-4497-a3d0-443c41c78078" />
+
 ---
 
 ## 📚 ТЕОРЕТИЧЕСКАЯ ЧАСТЬ
@@ -34,6 +38,8 @@
 - 🗣️ Речевые сигналы (телефония, голосовая связь)
 - 💻 Информационные данные (компьютерные сети, Интернет)
 - 📺 Видеосигналы (видеонаблюдение, телевидение)
+
+<img width="220" height="154" alt="image" src="https://github.com/user-attachments/assets/18b5bcc1-3b30-440c-861d-88a9d6c34300" />
 
 #### 🔹 Ключевые особенности СКС
 ```
@@ -144,6 +150,9 @@
 │     • Медь, омеднённая сталь    │
 │     • Передача сигнала          │
 └─────────────────────────────────┘
+
+<img width="445" height="300" alt="image" src="https://github.com/user-attachments/assets/19bf3d89-099c-47fc-8011-c83d3787788c" />
+
 ```
 
 #### 🔹 Принцип работы
@@ -357,6 +366,12 @@
 #### 🔹 Принцип передачи света
 - Свет распространяется внутри стеклянной/пластиковой нити за счёт **полного внутреннего отражения**
 - Разработано в 1950-х, активно применяется в связи с 1970-х годов
+
+<img width="284" height="116" alt="image" src="https://github.com/user-attachments/assets/fb171aa0-ffcc-489f-8ec9-8cfab57fe8ec" />
+
+<img width="420" height="196" alt="image" src="https://github.com/user-attachments/assets/a93a7885-6de8-4e24-8ee1-9133dc0b6250" />
+
+<img width="362" height="211" alt="image" src="https://github.com/user-attachments/assets/9c9128d8-7c66-49fc-a4ce-53e0834c8477" />
 
 #### 🔹 Типы оптических волокон
 
