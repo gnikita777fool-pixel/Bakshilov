@@ -259,9 +259,8 @@ CSMA/CD (Carrier Sense Multiple Access with Collision Detection)
  🔧 Этап 5: Проверка
    Визуально проверить правильность порядка жил
    Протестировать кабельным тестером или омметром
-
-<br> <img width="698" height="601" alt="image" src="https://github.com/user-attachments/assets/26a72edb-3d7c-4ecb-a63a-582d3e91388b" />
  ``` 
+ <br> <img width="698" height="601" alt="image" src="https://github.com/user-attachments/assets/26a72edb-3d7c-4ecb-a63a-582d3e91388b" />
 #### 🔹 Проверка качества обжима
 
 ```
