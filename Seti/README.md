@@ -1,2 +1,3 @@
 ## [Доклады](/Seti/Doklads/)
-## [Конспекты](/Seti/Konspects/)
+## [Конспект](/Seti/Konspects/)
+## [Лабораторная работа](/Seti/Labs/)
