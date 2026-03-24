@@ -223,14 +223,14 @@ CSMA/CD (Carrier Sense Multiple Access with Collision Detection)
 
 #### 🔹 Пошаговая инструкция обжима вилки RJ-45
 
-<br>🔧 Этап 1: Подготовка кабеля
+- 🔧 Этап 1: Подготовка кабеля
    1. Отмерить нужную длину кабеля
    2. Снять внешнюю оболочку на 12-15 мм (использовать нож на кримпере)
    3. ⚠️ Не повредить изоляцию отдельных жил!
 
    <img width="448" height="252" alt="image" src="https://github.com/user-attachments/assets/049c2653-9c0f-44bf-9f54-666dae7eb691" />
 
-<br>🔧 Этап 2: Раскручивание и выравнивание
+- 🔧 Этап 2: Раскручивание и выравнивание
    4. Аккуратно расплести пары
    5. Выпрямить жилы, расположить в нужном порядке по схеме
    6. Выровнять концы жил на одном уровне (обрезать кусачками)
@@ -238,7 +238,7 @@ CSMA/CD (Carrier Sense Multiple Access with Collision Detection)
    <img width="640" height="339" alt="image" src="https://github.com/user-attachments/assets/9dae6978-2630-4d17-ab7d-d8c1a2f57b2d" />
    <img width="640" height="352" alt="image" src="https://github.com/user-attachments/assets/bee66731-b22b-4769-9a0d-3a468997cd26" />
 
-<br>🔧 Этап 3: Вставка в разъём
+- 🔧 Этап 3: Вставка в разъём
    7. Повернуть вилку контактами к себе, защёлкой вниз
    8. Вставить жилы в пазы до упора
    9. ⚠️ Убедиться, что:
@@ -247,7 +247,7 @@ CSMA/CD (Carrier Sense Multiple Access with Collision Detection)
    
    <img width="640" height="367" alt="image" src="https://github.com/user-attachments/assets/74d4a35e-5fed-4ad3-83b3-1ecb68b9e715" />
 
-<br>🔧 Этап 4: Обжим
+- 🔧 Этап 4: Обжим
    10. Вставить вилку в гнездо кримпера
    11. Сильно сжать ручки инструмента до щелчка
    12. Контакты прорежут изоляцию и обеспечат надёжное соединение
@@ -255,7 +255,7 @@ CSMA/CD (Carrier Sense Multiple Access with Collision Detection)
    
 <img width="640" height="330" alt="image" src="https://github.com/user-attachments/assets/276f3105-e925-45ec-bc21-0fc1fe929d75" />
 
-<br>🔧 Этап 5: Проверка
+- 🔧 Этап 5: Проверка
    14. Визуально проверить правильность порядка жил
    15. Протестировать кабельным тестером или омметром
 
