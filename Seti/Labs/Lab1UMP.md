@@ -242,8 +242,8 @@ CSMA/CD (Carrier Sense Multiple Access with Collision Detection)
   <br> 7. Повернуть вилку контактами к себе, защёлкой вниз
   <br> 8. Вставить жилы в пазы до упора
   <br> 9. ⚠️ Убедиться, что:
-      • Каждая жила дошла до конца разъёма
-      • Внешняя оболочка зашла под фиксатор кабеля
+     <br> • Каждая жила дошла до конца разъёма
+     <br> • Внешняя оболочка зашла под фиксатор кабеля
    
    <img width="640" height="367" alt="image" src="https://github.com/user-attachments/assets/74d4a35e-5fed-4ad3-83b3-1ecb68b9e715" />
 
@@ -258,8 +258,6 @@ CSMA/CD (Carrier Sense Multiple Access with Collision Detection)
 <br> 🔧 Этап 5: Проверка
   <br> 14. Визуально проверить правильность порядка жил
   <br> 15. Протестировать кабельным тестером или омметром
-
-<img width="662" height="197" alt="image" src="https://github.com/user-attachments/assets/74cbf78c-df36-457f-8e9c-951fb62de404" />
 
 #### 🔹 Проверка качества обжима
 
@@ -276,6 +274,7 @@ CSMA/CD (Carrier Sense Multiple Access with Collision Detection)
    • Оболочка не зафиксирована — кабель выдёргивается
    • Повреждена изоляция жил при зачистке
 ```
+<img width="662" height="197" alt="image" src="https://github.com/user-attachments/assets/0f322a96-568c-4370-a8d7-bcc3b8f747c0" />
 
 ---
 
@@ -300,6 +299,8 @@ CSMA/CD (Carrier Sense Multiple Access with Collision Detection)
    • Защита от перенапряжений и помех
    • Предотвращение замыканий по земле
 ```
+
+<img width="234" height="187" alt="image" src="https://github.com/user-attachments/assets/336b53b4-b643-4abf-b775-08f87943b258" />
 
 #### 🔹 MAC-адрес (Media Access Control)
 
