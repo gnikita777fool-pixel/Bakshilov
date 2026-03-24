@@ -115,6 +115,7 @@
    • ❌ Менее эстетично
 ```
 <br> <img width="551" height="225" alt="image" src="https://github.com/user-attachments/assets/35b5de16-6666-4497-a3d0-443c41c78078" />
+
 #### 🔹 Распределительные пункты (РП)
 
 | Тип шкафа | Применение | Вместимость |
@@ -150,9 +151,8 @@
 │     • Передача сигнала          │
 └─────────────────────────────────┘
 
-<img width="445" height="300" alt="image" src="https://github.com/user-attachments/assets/19bf3d89-099c-47fc-8011-c83d3787788c" />
-
 ```
+<img width="445" height="300" alt="image" src="https://github.com/user-attachments/assets/19bf3d89-099c-47fc-8011-c83d3787788c" />
 
 #### 🔹 Принцип работы
 - Благодаря соосности проводников и определённому соотношению диаметров внутри кабеля образуется **режим стоячей волны**
