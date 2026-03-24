@@ -23,10 +23,6 @@
 | Патч-корд | Готовый соединительный кабель для тестирования |
 | Хомуты | Организация и фиксация кабельных трасс |
 
-<img width="522" height="301" alt="image" src="https://github.com/user-attachments/assets/45d1a50f-6bef-40c7-b671-862c5a847db4" />
-
-<img width="551" height="225" alt="image" src="https://github.com/user-attachments/assets/35b5de16-6666-4497-a3d0-443c41c78078" />
-
 ---
 
 ## 📚 ТЕОРЕТИЧЕСКАЯ ЧАСТЬ
@@ -108,14 +104,17 @@
    • Напольные лючки
    • ✅ Эстетично, защищено
    • ❌ Сложно модернизировать
+```
+<br> <img width="522" height="301" alt="image" src="https://github.com/user-attachments/assets/45d1a50f-6bef-40c7-b671-862c5a847db4" />
 
+```
 🔹 ОТКРЫТАЯ ПРОКЛАДКА:
    • Пластиковые кабель-каналы (короба)
    • Лотки, миниколонны
    • ✅ Легкий доступ, простая модернизация
    • ❌ Менее эстетично
 ```
-
+<br> <img width="551" height="225" alt="image" src="https://github.com/user-attachments/assets/35b5de16-6666-4497-a3d0-443c41c78078" />
 #### 🔹 Распределительные пункты (РП)
 
 | Тип шкафа | Применение | Вместимость |
