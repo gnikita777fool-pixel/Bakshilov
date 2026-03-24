@@ -1,2 +1,2 @@
 ## [Доклады](/Seti/Doklads/)
-## [Доклады](/Seti/Konspects/)
+## [Конспекты](/Seti/Konspects/)
