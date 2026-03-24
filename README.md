@@ -5,3 +5,4 @@
 
 ## [Внедрение и поддержка компьютерных сетей](./Vnedrenie/)
 
+Ссылка на GitFlic **Илья Анатольевича** - *https://gitflic.ru/project/mathros/mfua*
