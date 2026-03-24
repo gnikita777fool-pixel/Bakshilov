@@ -1,1 +1,1 @@
-## [Доклады](/Vnedrenie/Doklads/)
+## [Доклады](/Seti/Doklads/)
