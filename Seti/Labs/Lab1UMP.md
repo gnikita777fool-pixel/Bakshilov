@@ -173,7 +173,7 @@ CSMA/CD (Carrier Sense Multiple Access with Collision Detection)
 
 * Для 10/100 Мбит/с; для 1 Гбит/с используются все 8 жил
 ```
-<img width="486" height="96" alt="image" src="https://github.com/user-attachments/assets/971b3a2a-c7a4-4ed5-87df-6d6dc7b77b7a" />
+<br> <img width="486" height="96" alt="image" src="https://github.com/user-attachments/assets/971b3a2a-c7a4-4ed5-87df-6d6dc7b77b7a" />
 <img width="483" height="452" alt="image" src="https://github.com/user-attachments/assets/036fd5d0-15d5-487d-9fd5-5bd72934cf40" />
 
 <img width="139" height="163" alt="image" src="https://github.com/user-attachments/assets/7e203da1-a2d0-4539-bce8-e4241c45e6ec" />
