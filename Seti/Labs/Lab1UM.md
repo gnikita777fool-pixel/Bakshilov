@@ -366,11 +366,7 @@
 - Свет распространяется внутри стеклянной/пластиковой нити за счёт **полного внутреннего отражения**
 - Разработано в 1950-х, активно применяется в связи с 1970-х годов
 
-<br> <img width="284" height="116" alt="image" src="https://github.com/user-attachments/assets/fb171aa0-ffcc-489f-8ec9-8cfab57fe8ec" />
-
 <br> <img width="420" height="196" alt="image" src="https://github.com/user-attachments/assets/a93a7885-6de8-4e24-8ee1-9133dc0b6250" />
-
-<br> <img width="362" height="211" alt="image" src="https://github.com/user-attachments/assets/9c9128d8-7c66-49fc-a4ce-53e0834c8477" />
 
 #### 🔹 Типы оптических волокон
 
@@ -378,6 +374,10 @@
 |-----|-------------------|-----------------|-----------|
 | **Одномодовое** (SMF) | 8,5–9,5 мкм | 125 мкм | Дальние расстояния (>500 м), магистральные линии |
 | **Многомодовое** (MMF) | 50 / 62,5 мкм | 125 мкм | Короткие расстояния (до 500 м), внутри зданий |
+
+<br> <img width="284" height="116" alt="image" src="https://github.com/user-attachments/assets/fb171aa0-ffcc-489f-8ec9-8cfab57fe8ec" />
+
+<br> <img width="362" height="211" alt="image" src="https://github.com/user-attachments/assets/9c9128d8-7c66-49fc-a4ce-53e0834c8477" />
 
 #### 🔹 Преимущества оптоволокна перед медными кабелями
 
