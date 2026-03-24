@@ -86,18 +86,8 @@ CSMA/CD (Carrier Sense Multiple Access with Collision Detection)
    🟫 Пара 4: Коричневый / Бело-коричневый
 ```
 
-<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/5c0ee559-1b9e-4488-8593-1fc25c2b4367" />
-
 #### 🔹 Категории кабелей UTP
-
-| Категория | Частотный диапазон | Применение |
-|----------|-------------------|-----------|
-| CAT1 | до 1 МГц | Телефонная связь, голос |
-| CAT3 | до 16 МГц | Голос + данные (10BASE-T) |
-| **CAT5** ⭐ | до 100 МГц | **Fast Ethernet (100BASE-TX)** |
-| CAT5e | до 125 МГц | Gigabit Ethernet (1000BASE-T) |
-| CAT6 | до 250 МГц | Высокоскоростные сети |
-| CAT7 | до 600 МГц | Экранированный, профессиональный |
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/5c0ee559-1b9e-4488-8593-1fc25c2b4367" />
 
 ---
 
