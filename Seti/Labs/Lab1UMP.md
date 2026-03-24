@@ -229,15 +229,15 @@ CSMA/CD (Carrier Sense Multiple Access with Collision Detection)
      Снять внешнюю оболочку на 12-15 мм (использовать нож на кримпере)
      ⚠️ Не повредить изоляцию отдельных жил!
 ```
-   <img width="448" height="252" alt="image" src="https://github.com/user-attachments/assets/049c2653-9c0f-44bf-9f54-666dae7eb691" />
+<br>   <img width="448" height="252" alt="image" src="https://github.com/user-attachments/assets/049c2653-9c0f-44bf-9f54-666dae7eb691" />
 ```
  🔧 Этап 2: Раскручивание и выравнивание
     Аккуратно расплести пары
     Выпрямить жилы, расположить в нужном порядке по схеме
     Выровнять концы жил на одном уровне (обрезать кусачками)
 ```
-   <img width="640" height="339" alt="image" src="https://github.com/user-attachments/assets/9dae6978-2630-4d17-ab7d-d8c1a2f57b2d" />
-   <img width="640" height="352" alt="image" src="https://github.com/user-attachments/assets/bee66731-b22b-4769-9a0d-3a468997cd26" />
+<br>   <img width="640" height="339" alt="image" src="https://github.com/user-attachments/assets/9dae6978-2630-4d17-ab7d-d8c1a2f57b2d" />
+<br>   <img width="640" height="352" alt="image" src="https://github.com/user-attachments/assets/bee66731-b22b-4769-9a0d-3a468997cd26" />
 ```
  🔧 Этап 3: Вставка в разъём
     Повернуть вилку контактами к себе, защёлкой вниз
@@ -246,22 +246,22 @@ CSMA/CD (Carrier Sense Multiple Access with Collision Detection)
           Каждая жила дошла до конца разъёма
           Внешняя оболочка зашла под фиксатор кабеля
  ``` 
-   <img width="640" height="367" alt="image" src="https://github.com/user-attachments/assets/74d4a35e-5fed-4ad3-83b3-1ecb68b9e715" />
+ <br>  <img width="640" height="367" alt="image" src="https://github.com/user-attachments/assets/74d4a35e-5fed-4ad3-83b3-1ecb68b9e715" />
+ ``` 
+ 🔧 Этап 4: Обжим
+   Вставить вилку в гнездо кримпера
+   Сильно сжать ручки инструмента до щелчка
+   Контакты прорежут изоляцию и обеспечат надёжное соединение
+   Фиксатор кабеля должен надёжно зажать оболочку
+ ```  
+<br> <img width="640" height="330" alt="image" src="https://github.com/user-attachments/assets/276f3105-e925-45ec-bc21-0fc1fe929d75" />
+ ``` 
+ 🔧 Этап 5: Проверка
+   Визуально проверить правильность порядка жил
+   Протестировать кабельным тестером или омметром
 
-<br> 🔧 Этап 4: Обжим
-  <br> Вставить вилку в гнездо кримпера
-  <br> Сильно сжать ручки инструмента до щелчка
-  <br> Контакты прорежут изоляцию и обеспечат надёжное соединение
-  <br> Фиксатор кабеля должен надёжно зажать оболочку
-   
-<img width="640" height="330" alt="image" src="https://github.com/user-attachments/assets/276f3105-e925-45ec-bc21-0fc1fe929d75" />
-
-<br> 🔧 Этап 5: Проверка
-  <br> Визуально проверить правильность порядка жил
-  <br> Протестировать кабельным тестером или омметром
-
-<img width="698" height="601" alt="image" src="https://github.com/user-attachments/assets/26a72edb-3d7c-4ecb-a63a-582d3e91388b" />
-
+<br> <img width="698" height="601" alt="image" src="https://github.com/user-attachments/assets/26a72edb-3d7c-4ecb-a63a-582d3e91388b" />
+ ``` 
 #### 🔹 Проверка качества обжима
 
 ```
