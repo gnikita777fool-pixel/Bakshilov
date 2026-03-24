@@ -37,11 +37,11 @@
 📅 1998 г. — Gigabit Ethernet (IEEE 802.3z) — 1 Гбит/с
 📅 2002 г. — 10 Gigabit Ethernet (IEEE 802.3ae) — 10 Гбит/с
 ```
-<img width="423" height="230" alt="image" src="https://github.com/user-attachments/assets/83649f2e-cc8a-4527-b77d-e01c48b2d4ce" />
+   - <img width="423" height="230" alt="image" src="https://github.com/user-attachments/assets/83649f2e-cc8a-4527-b77d-e01c48b2d4ce" />
 
-<img width="468" height="154" alt="image" src="https://github.com/user-attachments/assets/28fb91d1-af9a-4684-80ca-5f1173b3f386" />
+   - <img width="468" height="154" alt="image" src="https://github.com/user-attachments/assets/28fb91d1-af9a-4684-80ca-5f1173b3f386" />
 
-<img width="361" height="137" alt="image" src="https://github.com/user-attachments/assets/1599dfdc-c0aa-4c83-85b9-6f587c373ff7" />
+   - <img width="361" height="137" alt="image" src="https://github.com/user-attachments/assets/1599dfdc-c0aa-4c83-85b9-6f587c373ff7" />
 
 #### 🔹 Модификации стандарта IEEE 802.3 (10 Мбит/с)
 
