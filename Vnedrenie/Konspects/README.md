@@ -3,7 +3,7 @@
 ## [Конспект 3 - Совместимость комплектующих](/Vnedrenie/Konspects/Para3.md)
 ## [Конспект 4 - Методика тестирования](/Vnedrenie/Konspects/Para4.md)
 ## [Конспект 5 - Мониторы](/Vnedrenie/Konspects/Para5.md)
-
+## [Конспект 6 - МДК ИСП](/Vnedrenie/Konspects/Para6.md)
 
 
 
