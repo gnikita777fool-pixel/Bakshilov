@@ -1,0 +1,151 @@
+Данная лабораторная работа изначально написана для классической командной строки Windows (`cmd.exe`). Git Bash использует синтаксис Unix/Linux, поэтому многие команды заменяются на их bash-аналоги. Ниже приведён полный пошаговый перевод задания на синтаксис Git Bash.
+
+> ⚠️ **Важно:** Перед началом работы откройте Git Bash и перейдите в удобную рабочую папку, например:
+> ```bash
+> mkdir -p ~/lab_work && cd ~/lab_work
+> ```
+> Все пути ниже указаны относительно текущей директории.
+
+---
+
+### 🔄 Соответствие команд Windows CMD → Git Bash
+| Windows CMD | Git Bash (Linux-стиль) | Примечание |
+|-------------|------------------------|------------|
+| `md`        | `mkdir`                | `-p` создаёт промежуточные папки |
+| `rd`        | `rm -r` или `rmdir`    | `-r` для удаления с содержимым |
+| `del`       | `rm`                   |            |
+| `ren`       | `mv`                   | Переименование и перемещение |
+| `copy`      | `cp`                   |            |
+| `cls`       | `clear`                |            |
+| `type`      | `cat`                  |            |
+| `edit`      | `nano` / `vim`         | `nano` проще для новичков |
+| `copy con`  | `cat > файл` или `echo`|            |
+| `prompt`    | `export PS1="..."`     | Настройка приглашения |
+
+---
+
+### 📝 Пошаговое выполнение в Git Bash
+
+#### 1. Создание дерева каталогов в `Temp`
+*(Точная структура по вариантам в тексте не указана, поэтому создаём базовую, необходимую для дальнейших шагов)*
+```bash
+mkdir -p Temp/{A1,A2,Personal,University,Hobby}
+```
+
+#### 2. В `A2` создать `B4`, `B5` и удалить `B2`
+```bash
+mkdir -p Temp/A2/{B4,B5}
+# Если B2 уже существует, удаляем его:
+rm -rf Temp/A2/B2
+```
+
+#### 3. Создание файлов в `Personal`
+```bash
+echo "Бакшилов Никита Михайлович" > Temp/Personal/Name.txt
+echo "31.01.2008" > Temp/Personal/Date.txt
+echo "Школа №15, г. Москва" > Temp/Personal/School.txt
+```
+
+#### 4. Создание файлов в `University`
+```bash
+echo "МГТУ им. Баумана, Информационная безопасность" > Temp/University/Name.txt
+printf "Математика: 90\nФизика: 85\nРусский язык: 80\nИтого: 255\n" > Temp/University/Mark.txt
+```
+
+#### 5. Создание файла в `Hobby`
+```bash
+echo "Программирование, чтение, туризм" > Temp/Hobby/hobby.txt
+```
+
+#### 6. Копирование и переименование в `A2`
+*(Замените `1` на номер вашего варианта)*
+```bash
+cp Temp/Hobby/hobby.txt Temp/A2/Lab_1.txt
+```
+
+#### 7. Копия и удаление файла
+```bash
+cp Temp/A2/Lab_1.txt Temp/A2/copy_Lab_1.txt
+rm Temp/A2/copy_Lab_1.txt
+```
+
+#### 8. Очистка экрана
+```bash
+clear
+```
+
+#### 9. Вывод содержимого всех файлов `Personal`
+```bash
+cat Temp/Personal/*.txt
+# Или поочерёдно с разделителем:
+for f in Temp/Personal/*.txt; do echo "=== $(basename $f) ==="; cat "$f"; echo; done
+```
+
+#### 10. Сортировка файлов по имени
+В bash `ls` уже выводит по имени. Для явной сортировки:
+```bash
+ls -1 Temp/Personal/ | sort
+```
+
+#### 11. Объединение файлов в `all.txt` и вывод
+```bash
+cat Temp/Personal/*.txt > Temp/Personal/all.txt
+cat Temp/Personal/all.txt
+```
+
+#### 12. Редактирование `all.txt` (добавить год рождения)
+```bash
+# Вариант 1 (быстрый, через консоль):
+echo "Год рождения: 2000" >> Temp/Personal/all.txt
+cat Temp/Personal/all.txt
+
+# Вариант 2 (интерактивный, аналог edit):
+nano Temp/Personal/all.txt
+# В nano: допишите строку, нажмите Ctrl+O (сохранить), Enter, Ctrl+X (выход)
+```
+
+#### 13. Копирование `all.txt` в `A1`
+```bash
+cp Temp/Personal/all.txt Temp/A1/
+```
+
+#### 14. Удаление директорий с буквой `A` или цифрой `2`
+```bash
+# Безопасный способ через find (ищет только на первом уровне внутри Temp)
+find Temp -maxdepth 1 -type d \( -name "*A*" -o -name "*2*" \) -exec rm -rf {} +
+```
+> 🔍 Проверьте, какие папки удалятся, перед запуском: замените `-exec rm -rf {} +` на `-print`
+
+#### 15. Изменение строки приглашения (Prompt)
+В bash за это отвечает переменная `PS1`. Выполните в терминале:
+```bash
+export PS1="ваш_шаблон"
+```
+**Примеры для вариантов:**
+| Вариант | Команда в Git Bash |
+|---------|-------------------|
+| 1. Дата | `export PS1="[\d] \u@\h:\w\$ "` |
+| 2. Каталог + `<` | `export PS1="[\w] < "` |
+| 3. `\|` | `export PS1="\| "` |
+| 4. Диск + пробел | `export PS1="[\w] "` (дисков в Linux нет) |
+| 5. Версия ОС | `export PS1="[\$(uname -r)] \u@\h:\w\$ "` |
+| 6. Дата и время | `export PS1="[\D{%d.%m.%Y %H:%M:%S}] \u@\h:\w\$ "` |
+| 7. `<$>` | `export PS1="<\$> "` |
+| 8. `\|\|\|` | `export PS1="\|\|\| "` |
+| 9. Переход на новую строку | `export PS1="\n\u@\h:\w\$ "` |
+| 10. Время в `$` | `export PS1="\$[\t]\$ "` |
+
+💡 Чтобы приглашение сохранялось после перезапуска Git Bash, добавьте выбранную строку `export PS1="..."` в файл `~/.bashrc` и выполните `source ~/.bashrc`.
+<img width="856" height="853" alt="Снимок экрана (14)" src="https://github.com/user-attachments/assets/5f917340-5a55-413b-833d-de30be188d42" />
+<img width="857" height="854" alt="Снимок экрана (13)" src="https://github.com/user-attachments/assets/fbed4ca7-3da1-45ee-b952-5ae4a96bfc90" />
+<img width="858" height="846" alt="Снимок экрана (12)" src="https://github.com/user-attachments/assets/9dc636b4-0c25-4116-a398-3582a84832e6" />
+<img width="861" height="851" alt="Снимок экрана (11)" src="https://github.com/user-attachments/assets/b95815e6-ddb7-4846-876d-f11fba1cacb8" />
+<img width="859" height="720" alt="Снимок экрана (10)" src="https://github.com/user-attachments/assets/79fb3dc6-a397-4e20-a16d-aeaa3c4857da" />
+<img width="861" height="723" alt="Снимок экрана (9)" src="https://github.com/user-attachments/assets/991e8c41-dbe8-4811-b36e-6ed9db3e5370" />
+<img width="856" height="713" alt="Снимок экрана (8)" src="https://github.com/user-attachments/assets/e68cde2a-4c2a-4f3d-bf4d-53d484376760" />
+<img width="857" height="728" alt="Снимок экрана (6)" src="https://github.com/user-attachments/assets/9951c4e0-8d6f-4987-bfde-68324c3d0ab8" />
+<img width="863" height="729" alt="Снимок экрана (5)" src="https://github.com/user-attachments/assets/b2cecf8b-7699-4565-a36a-4b2266057ae1" />
+<img width="859" height="729" alt="Снимок экрана (4)" src="https://github.com/user-attachments/assets/e6a1bb2b-c473-45ef-a8bd-e5983f5ac09c" />
+<img width="859" height="735" alt="Снимок экрана (3)" src="https://github.com/user-attachments/assets/67012c75-fa33-493a-84cf-9046acc7142a" />
+<img width="860" height="728" alt="Снимок экрана (2)" src="https://github.com/user-attachments/assets/2f075f1f-b159-4831-b058-9817ce6befea" />
+<img width="859" height="730" alt="Снимок экрана (1)" src="https://github.com/user-attachments/assets/22d0f2c3-d1f6-4ea6-8ff7-4da0db0d8fac" />
